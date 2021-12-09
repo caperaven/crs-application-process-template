@@ -10,7 +10,7 @@ It includes the:
 
 The purpose here for rapid application development where the moving parts are already set up and ready to go for application development.
 
-Additionally this template also uses [crs-process-api](https://github.com/caperaven/crs-process-api).  
+Additionally this template also uses [CRS Process Api](https://github.com/caperaven/crs-process-api).  
 The process api acts as the core of features to be program against and also driven using json schemas.
 
 ## Views
